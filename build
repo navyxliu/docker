@@ -1,0 +1,3 @@
+#!/bin/bash
+/usr/bin/docker build -t docker-aarch64 . $1
+
